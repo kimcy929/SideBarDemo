@@ -1,4 +1,4 @@
-package com.example.sidebarinservice;
+package com.example.sidebarinservice.utils;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
